@@ -1,0 +1,41 @@
+TS = 75 (25% of the population size)
+
+ID #0 Fitness: 363912.604439425
+
+ID #0 Fitness: 371867.83205118665
+
+ID #0 Fitness: 376056.515530038
+
+ID #0 Fitness: 365963.3348707468
+
+ID #0 Fitness: 369812.7785760494
+
+TOURNAMENT SIZE TEST (MR = 75) Average fitness after 5 iterations: 369522.61309348914
+
+TS = 150 (50% of the population size)
+
+ID #285 Fitness: 378572.1429717954
+
+ID #0 Fitness: 375800.60537872557
+
+ID #0 Fitness: 378379.73773107026
+
+ID #0 Fitness: 372651.96083601133
+
+ID #0 Fitness: 384803.9062932265
+
+TOURNAMENT SIZE TEST (MR = 150) Average fitness after 5 iterations: 378041.6706421658
+
+TS = 225 (75% of the population size)
+
+ID #0 Fitness: 380781.6628889923
+
+ID #0 Fitness: 379375.4649313101
+
+ID #0 Fitness: 373588.0316188643
+
+ID #0 Fitness: 385413.3633939588
+
+ID #0 Fitness: 384087.527009961
+
+TOURNAMENT SIZE TEST (MR = 225) Average fitness after 5 iterations: 380649.20996861724
